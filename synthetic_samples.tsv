@@ -1,0 +1,8 @@
+output_file	pt_sex	donor_sex	BSI_frac	chr21_frac	donor_frac	num_reads
+output/healthy_individual.txt	female	female	0	0	0	100000
+output/heart_tx.txt	female	male	0	0	0.125	100000
+output/pregnancy_1.txt	female	male	0	0	0.08	100000
+output/pregnancy_2.txt	female	female	0	0	0.10	100000
+output/pregnancy_3.txt	female	male	0	0.07	0.04	93388
+output/pregnancy_4.txt	female	female	0	0	0	100000
+output/infection.txt	male	male	10	0	0	100000
